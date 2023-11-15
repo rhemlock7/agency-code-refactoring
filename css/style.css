@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Nav Bar CSS */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,7 @@ body {
     margin-left: 25px;
 }
 
+/* Text & Link Styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-
+/* Hero Section */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,7 +62,7 @@ p {
     background-position: center;
 }
 
-/* Positions images */
+/* Image Positioning */
 .float-left {
     float: left;
     margin-right: 25px;
