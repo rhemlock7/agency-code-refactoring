@@ -120,7 +120,8 @@ p {
     color: #ffffff;
 }
 
-.services img, h2 {
+.services img,
+h2 {
     max-height: 200px;
     margin-bottom: 20px;
     font-size: 36px;
